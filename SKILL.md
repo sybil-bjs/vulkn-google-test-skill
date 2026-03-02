@@ -1,3 +1,8 @@
+---
+name: google-test
+description: "Test skill for Google Docs service account integration. Use for development and testing of Google Docs API operations. Triggers: google test, docs test."
+---
+
 # Google Docs Writer Skill
 
 This skill allows the agent to write and edit Google Docs using a service account.
